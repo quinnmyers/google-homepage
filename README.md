@@ -1,3 +1,5 @@
 # google-homepage
 
-Testing
+Creating the Google Homepage/Search Result Page
+
+theodinproject.com
